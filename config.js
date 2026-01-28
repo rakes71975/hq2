@@ -18,7 +18,7 @@
     "BOTOWNER": "rakesh nishad",
     "OWNERLINK": "https://www.facebook.com/share/1GEwTWrAKH/",
     "OWNERID": "61585614104591",
-    "BOTCREATOR": "Zeeshan Altaf",
+    "BOTCREATOR": "Rakesh nishad",
     "CREATORLINK": "https://www.facebook.com/share/1GEwTWrAKH/",
     "CREATORID": "61585614104591",
     "BOTNAME": "Bot",
@@ -215,3 +215,4 @@
     }
 
 }
+
